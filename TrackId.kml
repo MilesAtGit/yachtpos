@@ -11,7 +11,7 @@
 <altitude>39.0509567983437</altitude>
 <heading>0</heading>
 <tilt>45</tilt>
-<range>14100</range>
+<range>28200</range>
 <altitudeMode>clampToGround</altitudeMode>
 </LookAt>
 <Folder>
@@ -154,6 +154,8 @@
 <gx:coord>150.644332 -34.8636149 50.0 </gx:coord>
 <when>2026-01-27T01:31:21.000Z</when>
 <gx:coord>150.6432623 -34.8642864 50.0 </gx:coord>
+<when>2026-01-27T01:31:23.000Z</when>
+<gx:coord>150.6431201 -34.8643807 50.0 </gx:coord>
 <when>2026-01-27T01:31:23.000Z</when>
 <gx:coord>150.6431201 -34.8643807 50.0 </gx:coord>
 </gx:Track>
