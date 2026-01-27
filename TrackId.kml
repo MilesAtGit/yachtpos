@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>Tracks</name>
+<open>1</open>
+<snippet>Created Tue Nov 25 13:00:17 2025</snippet>
+<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+<LookAt>
+<longitude>5.426739</longitude>
+<latitude>53.18898133</latitude>
+<altitude>39.0509567983437</altitude>
+<heading>0</heading>
+<tilt>45</tilt>
+<range>14100</range>
+<altitudeMode>clampToGround</altitudeMode>
+</LookAt>
+<Folder>
+<name>Yacht</name>
+<open>1</open>
+<Placemark>
+<name>Yacht</name>
+<StyleMap id="multiTrack">
+<Pair>
+<key>normal</key>
+<styleUrl>#multiTrack_n</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#multiTrack_h</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="multiTrack_h">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>https://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>990000FF</color>
+<width>8</width>
+</LineStyle>
+</Style>
+<Style id="multiTrack_n">
+<IconStyle>
+<Icon>
+<href>https://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>990000FF</color>
+<width>6</width>
+</LineStyle>
+</Style>
+<styleUrl>#multiTrack</styleUrl>
+<gx:Track>
+<when>2026-01-25T20:38:00.000Z</when>
+<gx:coord>5.426739 53.18898133 50.0 </gx:coord>
+<when>2026-01-25T20:43:01.000Z</when>
+<gx:coord>5.4281135 53.18905017 50.0 </gx:coord>
+<when>2026-01-25T20:48:01.000Z</when>
+<gx:coord>5.4271505 53.19064533 50.0 </gx:coord>
+<when>2026-01-25T20:53:01.000Z</when>
+<gx:coord>5.42658683 53.18919783 50.0 </gx:coord>
+<when>2026-01-25T20:58:01.000Z</when>
+<gx:coord>5.4284875 53.18912683 50.0 </gx:coord>
+<when>2026-01-25T21:03:01.000Z</when>
+<gx:coord>5.42809333 53.19151167 50.0 </gx:coord>
+<when>2026-01-25T21:08:01.000Z</when>
+<gx:coord>5.4263835 53.188239 50.0 </gx:coord>
+<when>2026-01-25T21:13:01.000Z</when>
+<gx:coord>5.4277855 53.18991433 50.0 </gx:coord>
+<when>2026-01-25T21:18:01.000Z</when>
+<gx:coord>5.42809083 53.18892667 50.0 </gx:coord>
+<when>2026-01-25T21:23:01.000Z</when>
+<gx:coord>5.42537733 53.1885175 50.0 </gx:coord>
+<when>2026-01-25T21:28:01.000Z</when>
+<gx:coord>5.42528783 53.18861283 50.0 </gx:coord>
+<when>2026-01-25T21:33:01.000Z</when>
+<gx:coord>5.427599 53.19024283 50.0 </gx:coord>
+<when>2026-01-25T21:38:01.000Z</when>
+<gx:coord>5.42624683 53.19054333 50.0 </gx:coord>
+<when>2026-01-25T21:43:01.000Z</when>
+<gx:coord>5.42719517 53.18929017 50.0 </gx:coord>
+<when>2026-01-25T21:48:01.000Z</when>
+<gx:coord>5.42724167 53.19175633 50.0 </gx:coord>
+<when>2026-01-25T21:53:02.000Z</when>
+<gx:coord>5.42802133 53.19019133 50.0 </gx:coord>
+<when>2026-01-25T21:58:02.000Z</when>
+<gx:coord>5.424584 53.18884067 50.0 </gx:coord>
+<when>2026-01-25T22:03:02.000Z</when>
+<gx:coord>5.42892733 53.18987717 50.0 </gx:coord>
+<when>2026-01-25T22:08:02.000Z</when>
+<gx:coord>5.42885183 53.1895485 50.0 </gx:coord>
+<when>2026-01-25T22:13:03.000Z</when>
+<gx:coord>5.4276295 53.1905895 50.0 </gx:coord>
+<when>2026-01-25T22:18:03.000Z</when>
+<gx:coord>5.42808833 53.18814383 50.0 </gx:coord>
+<when>2026-01-25T22:23:03.000Z</when>
+<gx:coord>5.426487 53.1887275 50.0 </gx:coord>
+<when>2026-01-25T22:28:03.000Z</when>
+<gx:coord>5.427182 53.18973867 50.0 </gx:coord>
+<when>2026-01-26T03:23:50.000Z</when>
+<gx:coord>5.4256675 53.1869625 50.0 </gx:coord>
+<when>2026-01-26T03:29:49.000Z</when>
+<gx:coord>5.42693633 53.1896985 50.0 </gx:coord>
+<when>2026-01-26T03:34:49.000Z</when>
+<gx:coord>5.42624317 53.190147 50.0 </gx:coord>
+<when>2026-01-26T03:39:50.000Z</when>
+<gx:coord>5.42888317 53.1890865 50.0 </gx:coord>
+<when>2026-01-26T03:44:51.000Z</when>
+<gx:coord>5.4274275 53.190454 50.0 </gx:coord>
+<when>2026-01-26T03:49:51.000Z</when>
+<gx:coord>5.427693 53.188939 50.0 </gx:coord>
+<when>2026-01-26T03:54:51.000Z</when>
+<gx:coord>5.42679867 53.1908745 50.0 </gx:coord>
+<when>2026-01-26T03:59:51.000Z</when>
+<gx:coord>5.42691617 53.19012133 50.0 </gx:coord>
+<when>2026-01-26T04:04:51.000Z</when>
+<gx:coord>5.42727533 53.1839655 50.0 </gx:coord>
+<when>2026-01-26T04:09:51.000Z</when>
+<gx:coord>5.42741083 53.19166117 50.0 </gx:coord>
+<when>2026-01-26T04:15:59.000Z</when>
+<gx:coord>5.42642267 53.18687583 50.0 </gx:coord>
+<when>2026-01-26T04:20:59.000Z</when>
+<gx:coord>5.42696983 53.18972417 50.0 </gx:coord>
+<when>2026-01-26T04:25:59.000Z</when>
+<gx:coord>5.42710417 53.18871367 50.0 </gx:coord>
+<when>2026-01-26T04:30:59.000Z</when>
+<gx:coord>5.42742783 53.18914583 50.0 </gx:coord>
+<when>2026-01-26T04:35:59.000Z</when>
+<gx:coord>5.42790067 53.1904515 50.0 </gx:coord>
+<when>2026-01-26T04:40:59.000Z</when>
+<gx:coord>5.4275645 53.19029717 50.0 </gx:coord>
+<when>2026-01-26T04:45:59.000Z</when>
+<gx:coord>5.42704833 53.18890783 50.0 </gx:coord>
+<when>2026-01-26T04:50:59.000Z</when>
+<gx:coord>5.42774267 53.1899045 50.0 </gx:coord>
+<when>2026-01-26T04:55:59.000Z</when>
+<gx:coord>5.42649633 53.191146 50.0 </gx:coord>
+<when>2026-01-26T05:00:59.000Z</when>
+<gx:coord>5.42779583 53.1913995 50.0 </gx:coord>
+<when>2026-01-26T05:05:59.000Z</when>
+<gx:coord>5.428546 53.1906415 50.0 </gx:coord>
+<when>2026-01-26T05:10:59.000Z</when>
+<gx:coord>5.42733567 53.1905865 50.0 </gx:coord>
+<when>2026-01-26T05:15:59.000Z</when>
+<gx:coord>5.42649883 53.1908375 50.0 </gx:coord>
+<when>2026-01-26T05:20:59.000Z</when>
+<gx:coord>5.42678383 53.18934883 50.0 </gx:coord>
+<when>2026-01-26T05:25:59.000Z</when>
+<gx:coord>5.42737983 53.19061233 50.0 </gx:coord>
+<when>2026-01-26T05:30:59.000Z</when>
+<gx:coord>5.4249545 53.19098867 50.0 </gx:coord>
+<when>2026-01-26T05:35:59.000Z</when>
+<gx:coord>5.42720367 53.18914333 50.0 </gx:coord>
+<when>2026-01-26T05:40:59.000Z</when>
+<gx:coord>5.42763933 53.1899025 50.0 </gx:coord>
+<when>2026-01-26T05:45:59.000Z</when>
+<gx:coord>5.42946167 53.18985033 50.0 </gx:coord>
+<when>2026-01-26T05:50:59.000Z</when>
+<gx:coord>5.42626433 53.18965433 50.0 </gx:coord>
+<when>2026-01-26T05:55:59.000Z</when>
+<gx:coord>5.42706133 53.18901083 50.0 </gx:coord>
+<when>2026-01-26T06:00:59.000Z</when>
+<gx:coord>5.42645933 53.18861233 50.0 </gx:coord>
+<when>2026-01-26T06:05:59.000Z</when>
+<gx:coord>5.42641067 53.18928317 50.0 </gx:coord>
+<when>2026-01-26T06:10:59.000Z</when>
+<gx:coord>5.42690867 53.18895333 50.0 </gx:coord>
+<when>2026-01-26T06:15:59.000Z</when>
+<gx:coord>5.42763017 53.19015367 50.0 </gx:coord>
+<when>2026-01-26T06:20:59.000Z</when>
+<gx:coord>5.42818283 53.1884155 50.0 </gx:coord>
+<when>2026-01-26T06:25:59.000Z</when>
+<gx:coord>5.42744833 53.18917883 50.0 </gx:coord>
+<when>2026-01-26T06:30:59.000Z</when>
+<gx:coord>5.42870867 53.19055967 50.0 </gx:coord>
+<when>2026-01-26T06:35:59.000Z</when>
+<gx:coord>5.42680283 53.19211367 50.0 </gx:coord>
+<when>2026-01-26T06:41:00.000Z</when>
+<gx:coord>5.4278515 53.18979017 50.0 </gx:coord>
+<when>2026-01-26T06:46:00.000Z</when>
+<gx:coord>5.4292965 53.19161267 50.0 </gx:coord>
+<when>2026-01-26T06:51:00.000Z</when>
+<gx:coord>5.4253865 53.18978883 50.0 </gx:coord>
+<when>2026-01-26T06:56:00.000Z</when>
+<gx:coord>5.42877733 53.19017683 50.0 </gx:coord>
+<when>2026-01-26T07:01:00.000Z</when>
+<gx:coord>5.426708 53.191131 50.0 </gx:coord>
+<when>2026-01-26T07:06:00.000Z</when>
+<gx:coord>5.42652967 53.189383 50.0 </gx:coord>
+<when>2026-01-26T07:11:06.000Z</when>
+<gx:coord>5.42701333 53.19417117 50.0 </gx:coord>
+</gx:Track>
+</Placemark >
+</Folder >
+<Folder>
+<name>5x</name>
+<open>1</open>
+<Placemark>
+<name>5x</name>
+<StyleMap id="multiTrack">
+<Pair>
+<key>normal</key>
+<styleUrl>#multiTrack_n</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#multiTrack_h</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="multiTrack_h">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>https://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>9900FF00</color>
+<width>8</width>
+</LineStyle>
+</Style>
+<Style id="multiTrack_n">
+<IconStyle>
+<Icon>
+<href>https://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>9900FF00</color>
+<width>6</width>
+</LineStyle>
+</Style>
+<styleUrl>#multiTrack</styleUrl>
+<gx:Track>
+<when>2026-01-25T09:10:13.000Z</when>
+<gx:coord>150.6445844 -34.8632469 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+<when>2026-01-25T09:10:18.000Z</when>
+<gx:coord>150.6445829 -34.8632466 50.0 </gx:coord>
+</gx:Track>
+</Placemark >
+</Folder >
+</Document >
+</kml >
